@@ -1,4 +1,4 @@
-<h2>Juicer 中文文档</h2>
+<h2>Juicer 中文文档 - jennybao</h2>
 
 <p><strong>当前最新版本: 0.6.4-stable</strong></p>
 
